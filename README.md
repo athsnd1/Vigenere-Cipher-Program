@@ -1,2 +1,2 @@
 # Vigenere-Cipher-Program
-A python command line program that implements the Vigenere Cipher
+A python command line program that implements the Vigenere Cipher i think
